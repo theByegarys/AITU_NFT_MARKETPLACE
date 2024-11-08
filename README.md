@@ -88,9 +88,3 @@ This is a decentralized NFT marketplace built using Hardhat and Next.js. The mar
 - Open the frontend in your browser at http://localhost:3000.
 - Connect your MetaMask wallet.
 - Mint, buy, and sell NFTs directly from the application.
-
-## License
-
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-[MIT License](LICENSE)
